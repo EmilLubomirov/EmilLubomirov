@@ -12,3 +12,7 @@ riding a bike or just listening to music.
 
 Currently trying to enrich fundamential programming concepts and the web based ones in particular with ReactJS and Spring Boot.
 Looking for bigger projects to work on in a team.
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emil-lubomirov-135113212)](https://www.linkedin.com/in/emil-lubomirov-135113212)
